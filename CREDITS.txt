@@ -1,0 +1,3 @@
+This file was initially an alternative format of block state maintained by thinkofdeath
+His repository can be found at:
+https://github.com/thinkofdeath/mc-autodocs
